@@ -1,10 +1,6 @@
-# proyecto_5_EDA_pruebas_hipotesis_Megaline
+# **Proyecto_Eficiencia_tarifas_Megaline**
 
- ## **Data analyst_ sprint 5 proyecto 5: ¿Cúal es la mejor tarifa?
-
-# **Proyecto: Eficiencia de tarifas telecomunicaciones Megaline.**
-
-## **Descripción del proyecto**
+## :bookmark_tabs: **Descripción del proyecto**
 
 **¿Cuál es la mejor tarifa?**
 
@@ -12,11 +8,11 @@ Trabajas como analista para el operador de telecomunicaciones Megaline. La empre
 
 Vas a realizar un análisis preliminar de las tarifas basado en una selección de clientes relativamente pequeña. Tendrás los datos de 500 clientes de Megaline: quiénes son los clientes, de dónde son, qué tarifa usan, así como la cantidad de llamadas que hicieron y los mensajes de texto que enviaron en 2018. Tu trabajo es analizar el comportamiento de los clientes y determinar qué tarifa de prepago genera más ingresos.
 
-## **Objetivo:** 
+## :dart: **Objetivo:** 
 
 Identificar las tarifas con mejor rendimiento de ingresos para la compañía.
 
-## **Etapas:**
+## :clipboard: **Etapas:**
 
 * Revisión y análisis de las bases de datos: “tarifas”, “usuarios”, “llamadas”, “mensajes”, “internet”.
 * Procesamiento de bases de datos: revisión de estilo snake_case, validación de tipo de datos por dataset, valores duplicados explícitos e intrínsecos, valores ausentes, acciones tomadas para valores ausentes.
@@ -25,4 +21,21 @@ Identificar las tarifas con mejor rendimiento de ingresos para la compañía.
 * Análisis estadístico: definición de hipótesis, pruebas de probabilidad, recomendaciones estadísticas.
 * Conclusiones finales del estudio de acuerdo a los hallazgos obtenidos.
 
-El archivo se encuentra dentro del directorio "notebooks".
+## :computer: **Librerías y funciones utilizadas**
+
+:diamond_shape_with_a_dot_inside: Pandas
+
+:diamond_shape_with_a_dot_inside: Numoy
+
+:diamond_shape_with_a_dot_inside: seaborn
+
+:diamond_shape_with_a_dot_inside: math import factorial
+
+:diamond_shape_with_a_dot_inside: scipy import stats
+
+:diamond_shape_with_a_dot_inside: matplotlib import plyplot
+
+## :pencil: **Notas adicionales**
+
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/proyecto_5_eficiencia_lineas_telefonicas/blob/main/notebooks/proyecto_sprint_5.ipynb
+
